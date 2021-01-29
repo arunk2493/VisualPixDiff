@@ -1,0 +1,63 @@
+{
+  "uid" : "f3f90ec5534f0cd0",
+  "name" : "should greet the named user",
+  "fullName" : "angularjs homepage.should greet the named user",
+  "historyId" : "e95e214c19e6b636e996f53e9116ec2",
+  "time" : {
+    "start" : 1611929245803,
+    "stop" : 1611929246583,
+    "duration" : 780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "should greet the named user"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a692e84f7ab45d27",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Hello Juli!' to equal 'Hello Julie!'.",
+      "time" : {
+        "start" : 1611929245059,
+        "stop" : 1611929245803,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "8a78c11e6a4525c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929241492,
+        "stop" : 1611929245059,
+        "duration" : 3567
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3f90ec5534f0cd0.json",
+  "parameterValues" : [ ]
+}

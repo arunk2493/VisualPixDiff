@@ -1,0 +1,41 @@
+[ {
+  "uid" : "7b7e69dac239ba5b",
+  "name" : "should greet the named use1r",
+  "time" : {
+    "start" : 1611929310502,
+    "stop" : 1611929313869,
+    "duration" : 3367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acf6e9f4b9e77496",
+  "name" : "should greet the named user2",
+  "time" : {
+    "start" : 1611929313869,
+    "stop" : 1611929314736,
+    "duration" : 867
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3f90ec5534f0cd0",
+  "name" : "should greet the named user",
+  "time" : {
+    "start" : 1611929245803,
+    "stop" : 1611929246583,
+    "duration" : 780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "500ee727f8084260",
+  "name" : "should greet the named user3",
+  "time" : {
+    "start" : 1611929314736,
+    "stop" : 1611929315546,
+    "duration" : 810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

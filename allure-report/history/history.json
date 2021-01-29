@@ -1,0 +1,79 @@
+{
+  "9f505f24477668a1e694597707a9a27f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "500ee727f8084260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929314736,
+        "stop" : 1611929315546,
+        "duration" : 810
+      }
+    } ]
+  },
+  "e95e214c19e6b636e996f53e9116ec2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3f90ec5534f0cd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929245803,
+        "stop" : 1611929246583,
+        "duration" : 780
+      }
+    } ]
+  },
+  "94c6750ab2763c4a74e894fc7cd2ab24" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acf6e9f4b9e77496",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Hello Juli!' to equal 'Hello Julie!'.",
+      "time" : {
+        "start" : 1611929313869,
+        "stop" : 1611929314736,
+        "duration" : 867
+      }
+    } ]
+  },
+  "75ab7e063ae047778ca9f70ecb95f29b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b7e69dac239ba5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929310502,
+        "stop" : 1611929313869,
+        "duration" : 3367
+      }
+    } ]
+  }
+}

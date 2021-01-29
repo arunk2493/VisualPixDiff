@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "angularjs homepage",
+    "children" : [ {
+      "name" : "should greet the named user",
+      "uid" : "f3f90ec5534f0cd0",
+      "parentUid" : "a85b525ecaeb7456b5b35f3364cb2dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929245803,
+        "stop" : 1611929246583,
+        "duration" : 780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should greet the named use1r",
+      "uid" : "7b7e69dac239ba5b",
+      "parentUid" : "a85b525ecaeb7456b5b35f3364cb2dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929310502,
+        "stop" : 1611929313869,
+        "duration" : 3367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should greet the named user2",
+      "uid" : "acf6e9f4b9e77496",
+      "parentUid" : "a85b525ecaeb7456b5b35f3364cb2dd9",
+      "status" : "failed",
+      "time" : {
+        "start" : 1611929313869,
+        "stop" : 1611929314736,
+        "duration" : 867
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should greet the named user3",
+      "uid" : "500ee727f8084260",
+      "parentUid" : "a85b525ecaeb7456b5b35f3364cb2dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611929314736,
+        "stop" : 1611929315546,
+        "duration" : 810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a85b525ecaeb7456b5b35f3364cb2dd9"
+  } ]
+}

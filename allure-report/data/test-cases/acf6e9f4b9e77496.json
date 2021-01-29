@@ -1,0 +1,52 @@
+{
+  "uid" : "acf6e9f4b9e77496",
+  "name" : "should greet the named user2",
+  "fullName" : "angularjs homepage.should greet the named user2",
+  "historyId" : "94c6750ab2763c4a74e894fc7cd2ab24",
+  "time" : {
+    "start" : 1611929313869,
+    "stop" : 1611929314736,
+    "duration" : 867
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Hello Juli!' to equal 'Hello Julie!'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/arunkumaraswamy/Documents/projects/Study/Visual Testing/VisualPixDiff/visual-tests/src/tests/pageObjectTest.js:15:57)\n                    at processTicksAndRejections (internal/process/next_tick.js:81:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "should greet the named user2"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "acf6e9f4b9e77496.json",
+  "parameterValues" : [ ]
+}

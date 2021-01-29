@@ -1,0 +1,44 @@
+{
+  "uid" : "8a78c11e6a4525c3",
+  "name" : "should greet the named user",
+  "fullName" : "angularjs homepage.should greet the named user",
+  "historyId" : "e95e214c19e6b636e996f53e9116ec2",
+  "time" : {
+    "start" : 1611929241492,
+    "stop" : 1611929245059,
+    "duration" : 3567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "should greet the named user"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a78c11e6a4525c3.json",
+  "parameterValues" : [ ]
+}

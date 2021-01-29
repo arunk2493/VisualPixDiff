@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected 'Hello Juli!' to equal 'Hello Julie!'.",
+      "children" : [ {
+        "name" : "should greet the named user2",
+        "uid" : "acf6e9f4b9e77496",
+        "parentUid" : "3b8ab040e273924a474a7c54ac47ee51",
+        "status" : "failed",
+        "time" : {
+          "start" : 1611929313869,
+          "stop" : 1611929314736,
+          "duration" : 867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b8ab040e273924a474a7c54ac47ee51"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

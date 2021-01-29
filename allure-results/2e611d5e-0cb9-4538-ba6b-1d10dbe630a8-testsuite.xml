@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611930447689' stop='1611930456137'>
+    <name>angularjs homepage</name>
+    <title>angularjs homepage</title>
+    <test-cases>
+        <test-case start='1611930447689' status='passed' stop='1611930451577'>
+            <name>should greet the named user1</name>
+            <title>should greet the named user1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6b1a33db-259b-4af9-816b-64a536686d96-attachment.png' type='image/png' size='338746'/>
+            </attachments>
+        </test-case>
+        <test-case start='1611930451577' status='failed' stop='1611930453710'>
+            <name>should greet the named user2</name>
+            <title>should greet the named user2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c79b6d2a-07da-4ed7-82aa-74e8567745df-attachment.png' type='image/png' size='335367'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Hello Juli!' to equal 'Hello Julie!'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (/Users/arunkumaraswamy/Documents/projects/Study/Visual Testing/VisualPixDiff/visual-tests/src/tests/pageObjectTest.js:15:57)
+                    at processTicksAndRejections (internal/process/next_tick.js:81:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1611930453710' status='passed' stop='1611930454922'>
+            <name>should greet the named user3</name>
+            <title>should greet the named user3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e67af8ce-6a86-40fc-97ee-bdb330590fed-attachment.png' type='image/png' size='341446'/>
+            </attachments>
+        </test-case>
+        <test-case start='1611930454922' status='failed' stop='1611930456136'>
+            <name>should greet the named user4</name>
+            <title>should greet the named user4</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='df1c3660-e185-4536-8c6f-c877f3c21388-attachment.png' type='image/png' size='339681'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Hello Arun!' to equal 'Hello Juliana!'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (/Users/arunkumaraswamy/Documents/projects/Study/Visual Testing/VisualPixDiff/visual-tests/src/tests/pageObjectTest.js:29:57)
+                    at processTicksAndRejections (internal/process/next_tick.js:81:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

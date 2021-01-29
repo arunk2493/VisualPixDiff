@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 29 19:38:30 IST 2021","Fri Jan 29 19:38:33 IST 2021","3367","","angularjs homepage","","angularjs homepage","should greet the named use1r","should greet the named use1r",""
+"passed","Fri Jan 29 19:38:34 IST 2021","Fri Jan 29 19:38:35 IST 2021","810","","angularjs homepage","","angularjs homepage","should greet the named user3","should greet the named user3",""
+"passed","Fri Jan 29 19:37:25 IST 2021","Fri Jan 29 19:37:26 IST 2021","780","","angularjs homepage","","angularjs homepage","should greet the named user","should greet the named user",""
+"failed","Fri Jan 29 19:38:33 IST 2021","Fri Jan 29 19:38:34 IST 2021","867","","angularjs homepage","","angularjs homepage","should greet the named user2","should greet the named user2",""

@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "protractor visual-tests/conf.js & npm run report & npm run generate",
+    "test": "protractor ",
     "report": "allure serve allure-results",
     "html": "allure generate"
   },
